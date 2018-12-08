@@ -627,3 +627,10 @@
 	return SmoothScroll;
 
 }));
+
+
+
+
+AOS.init({
+	duration: 1200,
+  })
